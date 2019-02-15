@@ -1,0 +1,12 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "This is in-class exercise 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jiacheng Guo",
+  "license": "ISC"
+}
